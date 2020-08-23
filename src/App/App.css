@@ -1,0 +1,16 @@
+.App-header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: grey;
+}
+
+.App-logo {
+  width: 50px;
+}
+
+img,
+video {
+  width: 100%;
+  height: 100%;
+}
